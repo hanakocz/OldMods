@@ -1,0 +1,22 @@
+[
+{
+  "modid": "SC0_ToxicRain",
+  "name": "Toxic Rain",
+  "description": "Rain poisons you! Also an enchantment for armor to help prevent it.",
+  "version": "1.0.2",
+  "mcversion": "1.6.4",
+  "url": "http://spacechase0.com/minecraft/mods/toxic-rain/",
+  "updateUrl": "",
+  "authors": [
+    "spacechase0"
+  ],
+  "credits": "spacechase0",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+    "required-after:SC0_SpaceCore"
+  ]
+}
+]

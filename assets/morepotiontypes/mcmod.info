@@ -1,0 +1,21 @@
+[
+{
+  "modid": "SC0_MorePotionTypes",
+  "name": "More Potion Types",
+  "description": "",
+  "version": "1.0.1",
+  "mcversion": "1.6.4",
+  "url": "http://spacechase0.com/minecraft/mods/more-potion-types/",
+  "updateUrl": "",
+  "authors": [
+    "spacechase0"
+  ],
+  "credits": "spacechase0",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
